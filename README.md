@@ -24,7 +24,7 @@ Collect blog posts and comments, commentator information and build a database
 
 博文数据采集数据库的展示（549,186行数据）：
 
-
+![image](https://github.com/otonashi-ayana/SpiderWeibo/readme_images/屏幕截图+2023-05-30 203236.png)
 
 其中每一行评论都会记录其所属的博文id，通过博文id可以找到博文数据表中对应的博文，实现了数据之间的关联：
 
