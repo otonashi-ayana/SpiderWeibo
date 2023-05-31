@@ -83,11 +83,11 @@ create table comment_base
 
 博文数据采集数据库的展示（549,186行数据）：
 
-![](https://github.com/otonashi-ayana/SpiderWeibo/blob/main/readme_images/screenshots.png)
+![1](https://github.com/otonashi-ayana/SpiderWeibo/blob/main/readme_images/screenshots.png)
 
 其中每一行评论都会记录其所属的博文id，通过博文id可以找到博文数据表中对应的博文，实现了数据之间的关联：
 
-![](https://github.com/otonashi-ayana/SpiderWeibo/blob/main/readme_images/screenshots2.png)
+![2](https://github.com/otonashi-ayana/SpiderWeibo/blob/main/readme_images/screenshots2.png)
 
 
 本人代码水平堪忧，本代码中的多线程部分与异常处理非常混乱（），同时该项目前后经过了很长一段时间修改，其屎山程度惨不忍睹。
